@@ -1,0 +1,5 @@
+MoshiRuleSet:
+  MissingJsonClassAnnotation:
+    active: true
+    keywords: Request,Response,Event
+    excludes: [ '**/test/**' ]
